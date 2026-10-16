@@ -1,4 +1,5 @@
-<img width="1200" height="700" alt="soundscape-canvas" src="https://github.com/user-attachments/assets/584bd7b7-122e-43ad-a9cc-1577d8ce12a1" /><img width="1136" height="912" alt="01-home" src="https://github.com/user-attachments/assets/6233557f-9b3f-441c-8105-5406d234b27a" /># Soundscape Canvas · 意境
+
+# Soundscape Canvas · 意境
 
 把一段音乐变成一幅会流动的钢琴卷帘，可以看，也可以录成视频分享出去。
 
@@ -10,12 +11,11 @@
 
 ## 界面预览
 
-| 首页 | 钢琴卷帘播放 | 在线搜索 |
-|:---:|:---:|:---:|
-| <img width="1136" height="912" alt="01-home" src="https://github.com/user-attachments/assets/86893ccf-2b3f-461b-a4af-063a7b276f50" />
- | <img width="1136" height="912" alt="02-piano-roll" src="https://github.com/user-attachments/assets/e6c5c794-5408-4e65-8163-36c32b99cfb7" />
- | <img width="1136" height="912" alt="03-online-search" src="https://github.com/user-attachments/assets/bb1ffe33-7e4f-4405-8dd7-71778c474738" />
- |
+
+ <img width="1136" height="912" alt="01-home" src="https://github.com/user-attachments/assets/86893ccf-2b3f-461b-a4af-063a7b276f50" />
+  <img width="1136" height="912" alt="02-piano-roll" src="https://github.com/user-attachments/assets/e6c5c794-5408-4e65-8163-36c32b99cfb7" />
+  <img width="1136" height="912" alt="03-online-search" src="https://github.com/user-attachments/assets/bb1ffe33-7e4f-4405-8dd7-71778c474738" />
+ 
 
 ## 主要功能
 
