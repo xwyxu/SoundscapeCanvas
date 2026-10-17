@@ -66,7 +66,8 @@
         ▼
   系统分享面板（保存 / 分享 MP4）
 ```
-![Uploading soundscape-canvas.webp…]()
+<img width="4800" height="2800" alt="soundscape-canvas" src="https://github.com/user-attachments/assets/0b52d036-4621-41ed-a143-4f659ed228f5" />
+
 
 两个实现上比较得意的地方：一是画布和视频导出共用同一个纯函数渲染器 PianoRollRenderer，所见即所得，导出画面不会和 App 里看到的有出入；二是播放时钟直接从 AVAudioEngine 的渲染时钟推导，精度到采样级，不用 Timer 插值，画面和音乐不会漂。
 
